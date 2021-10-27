@@ -1,6 +1,7 @@
-DMOJ Docker [![Build Status](https://github.com/Ninjaclasher/dmoj-docker/workflows/Build%20Docker%20Images/badge.svg)](https://github.com/Ninjaclasher/dmoj-docker/actions/)
+BKDN-OJ Docker
 =====
 
+Cloned from [dmoj-docker](https://github.com/Ninjaclasher/dmoj-docker). 
 This repository contains the Docker files to run a clone of the [DMOJ site](https://github.com/DMOJ/online-judge). It configures some additional services, such as mathoid and texoid.
 
 ## Installation
